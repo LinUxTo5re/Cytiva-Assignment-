@@ -62,12 +62,12 @@ subsystemFire: Stop!
    ```
 2. **Run Backend API**
    ```sh
-   cd backend
+   cd MyApi
    dotnet run
    ```
 3. **Run React Client**
    ```sh
-   cd frontend
+   cd FrontendUI
    npm install
    npm start
    ```
