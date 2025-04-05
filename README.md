@@ -79,9 +79,9 @@ subsystemFire: Stop!
 | GET | `/api/system?action=fire` | Fires the subsystem |
 | GET | `/api/system?action=stop` | Stops both subsystems |
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/c909b8be-27f9-47e3-ba94-3ab26b0fffa5)
+
 ## Author
 **Chaitanyaa Ajabe**  
 Solution developed for **Danaher/Cytiva** interview assignment.
-
-## Screenshot
-![image](https://github.com/user-attachments/assets/c909b8be-27f9-47e3-ba94-3ab26b0fffa5)
